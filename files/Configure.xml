@@ -1,0 +1,15 @@
+<Configuration>
+<Add OfficeClientEdition="32">
+    <Product ID="WordRetail">
+      <Language ID="en-US" />
+    </Product>
+    <Product ID="ExcelRetail">
+      <Language ID="en-US" />
+    </Product>
+</Add>
+<Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
+<!--  OInstallSetting Branch=1  -->
+<!--  OInstallSetting Office=0  -->
+<!--  OInstallSetting Arch=0  -->
+<!--  OInstallSetting Lang=0  -->
